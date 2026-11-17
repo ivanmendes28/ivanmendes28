@@ -1,11 +1,35 @@
-Olá! Seja bem-vindo ao meu GitHub! 👋
+# Olá! Eu sou o Ivan 👋
 
-Sou estudante de Sistemas de Informação, apaixonado por tecnologia, inovação e resolução de problemas.
+🎓 Estudante de Sistemas de Informação (UNIP)
 
-Atualmente, trabalho na área administrativa, onde desenvolvi habilidades como pensamento analítico, organização, comunicação e resolução de problemas. Essa experiência despertou meu interesse por processos, dados e tecnologia, motivando minha transição para a área de TI.
+💻 Atualmente estudando
 
-Estou em constante aprendizado, desenvolvendo meus conhecimentos em lógica de programação, algoritmos e linguagens de programação. Tenho um interesse especial em desenvolvimento de software e, futuramente, no desenvolvimento de jogos.
+- Python
+- Linguagem C
+- Git e GitHub
+- Lógica de Programação
+- Banco de Dados
 
-Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções. Por aqui, compartilho minha jornada de aprendizado, projetos e evolução como desenvolvedor.
+## 🚀 Sobre mim
 
-Aprendendo, praticando e evoluindo um passo de cada vez. 🚀
+- 🎓 Graduando em Sistemas de Informação
+- 📚 Sempre aprendendo novas tecnologias
+- 💡 Interesse em Desenvolvimento Full Stack
+- 🎯 Construindo projetos para evoluir como desenvolvedor
+
+## 🛠 Tecnologias
+
+- Python
+- C
+- Git
+- GitHub
+- SQL (em aprendizado)
+
+## 📂 Projetos
+
+Em breve estarei publicando aqui meus projetos da faculdade e projetos pessoais.
+
+## 📫 Contato
+
+- LinkedIn:
+- Email:
