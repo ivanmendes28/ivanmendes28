@@ -31,5 +31,5 @@ Em breve estarei publicando aqui meus projetos da faculdade e projetos pessoais.
 
 ## 📫 Contato
 
-- LinkedIn:
-- Email:
+- LinkedIn:www.linkedin.com/in/ivan-mendes-01a421227
+- Email:ivanmendesd43@gmail.com
